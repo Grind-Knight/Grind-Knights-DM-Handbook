@@ -15,6 +15,7 @@
 // END_PREFERENCES
 
 // BEGIN_INCLUDE
+#include "Code\DM Examples\Procs\locate.dm"
 #include "Code\DM Examples\Procs\orange.dm"
 #include "Code\DM Examples\Procs\oview.dm"
 #include "Code\DM Examples\Procs\view.dm"
