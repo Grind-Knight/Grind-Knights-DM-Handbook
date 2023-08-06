@@ -1,5 +1,5 @@
 /*
-Filename: procname().dm
+Filename: procname.dm
 
 Description:
 	This file demonstrates the use of the 'example_proc' in BYOND's Dream Maker language. The proc is described in detail, 

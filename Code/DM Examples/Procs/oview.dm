@@ -1,5 +1,5 @@
 /*
-Filename: oview().dm
+Filename: oview.dm
 
 Description:
 	This file demonstrates the use of the 'oview()' proc in BYOND's Dream Maker language. The proc is described in
