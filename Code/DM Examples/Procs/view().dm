@@ -2,15 +2,16 @@
 Filename: view().dm
 
 Description:
-	This file demonstrates the use of the 'view()' proc in BYOND's Dream Maker language. The proc is described in detail, 
-	and examples of its use are provided.
+	This file demonstrates the use of the 'view()' proc in BYOND's Dream Maker language. The proc is described in
+	detail, and examples of its use are provided.
 
 Usage: 
 	To see this proc in action, launch the game, and use the verb "ViewDemo".
 
 Brief description of the proc:
-	The 'view()' proc is a built-in proc in DM that returns a list of all visible atoms (objects, mobs, turfs) within a certain range 
-	of a given center atom. By default, the center is the usr (the player's mob) and the range is the client's view radius.
+	The 'view()' proc is a built-in proc in DM that returns a list of all visible atoms (areas, turfs, objects, mobs)
+	within a certain range of a given center atom. By default, the center is the usr (the player's mob) and the range
+	is the client's view radius.
 
 Format:
 	view(Dist=5,Center=usr)
@@ -37,7 +38,8 @@ mob
 
 /*
 Example 2: 
-This example uses the 'view()' proc with a specified center and range. It will list all atoms visible within a 2-tile radius of the usr.
+This example uses the 'view()' proc with a specified center and range. It will list all atoms visible within a
+2-tile radius of the usr.
 */
 mob
 	proc
@@ -52,7 +54,7 @@ mob
 mob
 	verb
 		ViewDemo()
-			set name = "ViewDemo"
+			set name = "view() Demo"
 			set category = "Demo"
 
 			// Start of demonstration
