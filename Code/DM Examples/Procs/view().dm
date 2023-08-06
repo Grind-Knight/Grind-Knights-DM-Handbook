@@ -6,7 +6,7 @@ Description:
 	detail, and examples of its use are provided.
 
 Usage: 
-	To see this proc in action, launch the game, and use the verb "ViewDemo".
+	To see this proc in action, launch the game, and use the verb "view() Demo".
 
 Brief description of the proc:
 	The 'view()' proc is a built-in proc in DM that returns a list of all visible atoms (areas, turfs, objects, mobs)

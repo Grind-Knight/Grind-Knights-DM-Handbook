@@ -1,4 +1,5 @@
-.int
-.dmb
-.rsc
-.lk
+*.dmb
+*.rsc
+*.int
+*.lk
+*.zip
