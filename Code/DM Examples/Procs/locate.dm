@@ -1,5 +1,5 @@
 /*
-Filename: locate().dm
+Filename: locate.dm
 
 Description:
 	This file demonstrates the use of the 'locate()' proc in BYOND's Dream Maker language. The proc is described in

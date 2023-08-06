@@ -31,3 +31,5 @@ This project is licensed under the [GNU General Public License](https://chooseal
 If you have any questions, don't hesitate to get in touch.
 
 Grind Knight - Discord: grindknight
+
+Join our Discord [here](https://discord.gg/cQ2r8rDjaW).
