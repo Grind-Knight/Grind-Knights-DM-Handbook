@@ -15,7 +15,7 @@
 // END_PREFERENCES
 
 // BEGIN_INCLUDE
-#include "Code\DM Examples\Procs\View.dm"
+#include "Code\DM Examples\Procs\view().dm"
 #include "Essentials\Essentials.dm"
 #include "Essentials\World Map.dmm"
 // END_INCLUDE
